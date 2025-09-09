@@ -73,7 +73,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="/public/WhatsApp Image 2025-02-13 at 11.46.45_cfaa8741.jpg"
+                src="/Shyamdp.jpg"
                 alt="Shyamprasad - Digital Marketing Strategist in Kasaragod"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
               />
